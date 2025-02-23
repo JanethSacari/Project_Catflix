@@ -1,5 +1,5 @@
 :root{
-    --red: #f50404;
+    --red: #E50914;
     --black: #141414;
 }
 
@@ -40,9 +40,9 @@ header nav a:hover{
     color: #fff;
 }
 
-/*Principal movie*/
+/*Main movie*/
 
-.principal-movie{
+.main-movie{
     font-size: 16px;
     background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%),
          url('/images/puss-in-boots-2-finally-revealed-after-10-years_w785.jpg');
@@ -55,18 +55,18 @@ header nav a:hover{
     align-items: flex-start;
 }
 
-.principal-movie .description{
+.main-movie .description{
     margin-top: 10px;
     margin-bottom: 40px;
 }
 
-.principal-movie .title{
+.main-movie .title{
     margin-top: 15%;
     font-size: 40px;
     font-family:'Trebuchet MS', Arial, sans-serif;
 }
 
-.button-principal{
+.main-button{
     background-color: rgba(0,0,0,.50);
     border: none;
     color: white;
@@ -79,11 +79,11 @@ header nav a:hover{
     transition: .3s ease all;
 }
 
-.button-principal.button-principal:hover{
+.main-button.main-button:hover{
     background-color: white;
     color: black;
 }
 
-.button-principal i{
+.main-button i{
     margin-right: 5px;
 }
