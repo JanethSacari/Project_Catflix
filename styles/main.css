@@ -95,3 +95,9 @@ header nav a:hover{
 .main-movie .container{
     width: 70%;
 }
+
+.movie-box{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
