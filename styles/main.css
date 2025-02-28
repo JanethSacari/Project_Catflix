@@ -12,7 +12,7 @@
 /*Basic elements*/
 body{
     background-color: var(--black);
-    font-family: "Times New Roman", Times, serif;
+    font-family: "Arial", Times, serif;
     color: white;
 }
 
@@ -100,4 +100,8 @@ header nav a:hover{
     height: 100%;
     width: 100%;
     display: block;
+}
+
+.movies-carousel{
+    margin-top: 5px;
 }
