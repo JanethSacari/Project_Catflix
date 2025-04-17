@@ -1,4 +1,4 @@
-# Project Catflix
+9# Project Catflix
 
 Catflix is a Netflix-inspired project designed for front-end development practice, featuring a curated selection of cat-themed movies.
 
@@ -36,3 +36,7 @@ Catflix is a Netflix-inspired project designed for front-end development practic
 3. Ensure you have an internet connection for external libraries (e.g., Font Awesome).
 
 Enjoy exploring Catflix, the ultimate cat-themed movie experience!
+
+## Contact
+
+For any questions or inquiries, please contact [Janeth Sacari](https://github.com/JanethSacari).
