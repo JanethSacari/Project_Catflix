@@ -1,4 +1,4 @@
-# Project Catflix
+9# Project Catflix
 
 Catflix is a Netflix-inspired project designed for front-end development practice, featuring a curated selection of cat-themed movies.
 
@@ -40,3 +40,7 @@ Enjoy exploring Catflix, the ultimate cat-themed movie experience!
 ## How to change movie images
 
 You can change image archive without change his name, if you wish a new image for that movie.
+
+## Contact
+
+For any questions or inquiries, please contact [Janeth Sacari](https://github.com/JanethSacari).
