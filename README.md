@@ -36,3 +36,7 @@ Catflix is a Netflix-inspired project designed for front-end development practic
 3. Ensure you have an internet connection for external libraries (e.g., Font Awesome).
 
 Enjoy exploring Catflix, the ultimate cat-themed movie experience!
+
+## How to change movie images
+
+You can change image archive without change his name, if you wish a new image for that movie.
