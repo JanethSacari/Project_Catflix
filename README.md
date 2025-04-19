@@ -1,4 +1,4 @@
-9# Project Catflix
+# Project Catflix
 
 Catflix is a Netflix-inspired project designed for front-end development practice, featuring a curated selection of cat-themed movies.
 
