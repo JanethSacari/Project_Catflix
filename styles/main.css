@@ -104,6 +104,8 @@ header nav a:hover{
 }
 
 .movies-carousel{
+    margin-left: 250px;
+    width: calc(100% - 250px);
     margin-top: 5px;
 }
 
